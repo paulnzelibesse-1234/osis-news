@@ -1,0 +1,115 @@
+html
+{
+    overflow-x: hidden;
+    
+}
+
+}
+.fixed-top
+{
+    background-color:#F7F9F7;
+    padding: 05px;
+}
+
+.conteneur
+{
+    max-width: 720px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(0, 0 ,0, 8);
+    text-align: center;
+    border-radius:20px;
+    color: #ffff;
+    box-sizing: border-box;
+    border: 1px black solid;
+    padding: 30px ;
+    height: 625px;
+    opacity: 0.9;
+   
+}
+h2
+{
+    color: #ffff;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+input  {
+    width: 100%;
+    margin: 10px 0;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    padding: 10px 6px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none ;
+    box-sizing: border-box;
+    border-bottom:1px white solid;
+   
+}
+
+.conteneur button
+{
+    width:80%;
+    border-radius:12px;
+    padding: 10px;
+    background-color: white;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    margin: 30px 10px 0px 10px;
+
+}
+body{
+   background-image:url("couleur-rouge-de-carte-du-monde-à-l-arrière-plan-blanc-83048077.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.couleurfoot
+{
+    width: 1353px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.couleur
+{
+    color: black;  
+}
+.couleur1:hover
+{
+    color: red;  
+}
+.text
+{
+    width: 300px;
+    height: 150px;
+}
+.boutonsearch
+{
+    color: red;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   border-radius: 05px 05px 05px 05px;
+}
+.searchb
+{
+    width: 180px;
+    height: 40px;
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 05px 05px 05px 05px;
+    box-shadow: grey 05px;
+    border: 1px black solid;
+}
